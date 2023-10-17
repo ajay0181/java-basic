@@ -9,7 +9,7 @@ public class collectiondemo {
 		List<employee> mylist = new ArrayList<>();
 //		//mylist.add("hello");
 //
-		mylist.add(new  employee(1,"ajay","it",2000));
+		mylist.add(new  employee(1,"ajay","it",200000000));
 		mylist.add(new  employee(2,"isha","hr",2000));
 		mylist.add(new  employee(3,"abhi","fin",2000));
 		mylist.add(new  employee(4,"itawa","mech",2000));
